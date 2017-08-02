@@ -37449,3 +37449,7 @@
 [Tue, 01 Aug 2017 20:47:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /shoppingList/_all_docs?include_docs=true 304
 [Tue, 01 Aug 2017 20:47:34 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /shoppingList/ 304
 [Tue, 01 Aug 2017 20:47:34 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /shoppingList/_all_docs?include_docs=true 304
+[Wed, 02 Aug 2017 15:45:37 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 02 Aug 2017 15:45:37 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Wed, 02 Aug 2017 15:47:03 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 02 Aug 2017 15:47:03 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
